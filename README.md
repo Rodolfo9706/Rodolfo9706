@@ -10,7 +10,7 @@
 - 👨‍💻 Ingeniero en Mecatronica.
 - 🤖 Entusiasta de la robótica.
 - 📚 Siempre abierto a aprender algo nuevo y dispuesto a ser enseñado.
-- 🧰 Creo firmemente que los pensamientos son como una caja de herramientas y cada vez que aprendes algo nuevo, tienes una nueva herramienta para construir algo mejor.
+  
 
 #### Áreas de Interés
 
