@@ -15,8 +15,7 @@
 #### Áreas de Interés
 
 - 🤖 Robótica
-- 👁️ Visión por Computadora
-- 🧠 Aprendizaje Automático
+- 👁️ Control visual
 - 📡 Electrónica de Potencia
 - 🎛️ Control y Sistemas No Lineales
 
