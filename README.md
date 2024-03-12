@@ -7,7 +7,7 @@
 #### Sobre mí
 
 - 🎓 Estudiante de Doctorado en Mecatrónica en el CIO.
-- 👨‍💻 Ingeniero en Mecatronica.
+- 🔩 Ingeniero en Mecatronica.
 - 🤖 Entusiasta de la robótica.
 - 📚 Siempre abierto a aprender algo nuevo y dispuesto a ser enseñado.
   
