@@ -6,10 +6,13 @@ Hello! I'm **Rodolfo Isaac Verdín Monzón**, a robotics enthusiast and a **Ph.D
 
 ## 🧑‍💻 About Me  
 
-- 🎓 **Ph.D. student** in Mechatronics at CIO.  
+- 🎓 **Ph.D. student** in Mechatronics and mechanics design at CIO.  
 - 🔩 **Mechatronics Engineer**.  
 - 🤖 **Robotics enthusiast**.  
-- 📚 Always open to learning something new and willing to be taught.  
+- 📚 Always open to learning something new and willing to be taught.
+
+![image](https://github.com/user-attachments/assets/4d3ba552-cfa3-4665-9352-b791d3fe3647)
+
 
 ## 🚀 Areas of Interest  
 
