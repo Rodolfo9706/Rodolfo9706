@@ -1,37 +1,36 @@
-### Hi there 👋
+### Hi there 👋  
 
-### Bienvenido a mi espacio en GitHub
+### Welcome to my GitHub space  
 
-¡Hola! Soy Rodolfo Isaac Verdín Monzón, un entusiasta de la robótica y estudiante de doctorado en Mecatrónica en el Centro de Investigaciones en Óptica (CIO). Mi pasión radica en dar "vida" a las máquinas y explorar el vasto mundo de la robótica, el control y los sistemas no lineales.
+Hello! I'm **Rodolfo Isaac Verdín Monzón**, a robotics enthusiast and a **Ph.D. student in Mechatronics** at the **Center for Research in Optics (CIO)**. My passion lies in bringing machines to "life" and exploring the vast world of **robotics, control, and nonlinear systems**.  
 
-#### Sobre mí
+## 🧑‍💻 About Me  
 
-- 🎓 Estudiante de Doctorado en Mecatrónica en el CIO.
-- 🔩 Ingeniero en Mecatronica.
-- 🤖 Entusiasta de la robótica.
-- 📚 Siempre abierto a aprender algo nuevo y dispuesto a ser enseñado.
-  
+- 🎓 **Ph.D. student** in Mechatronics at CIO.  
+- 🔩 **Mechatronics Engineer**.  
+- 🤖 **Robotics enthusiast**.  
+- 📚 Always open to learning something new and willing to be taught.  
 
-#### Áreas de Interés
+## 🚀 Areas of Interest  
 
-- 🤖 Robótica
-- 👁️ Control visual
-- 📡 Electrónica de Potencia
-- 🎛️ Control y Sistemas No Lineales
+- 🤖 **Robotics**  
+- 👁️ **Visual control**  
+- 📡 **Power electronics**  
+- 🎛️ **Control and Nonlinear Systems**  
 
-#### Mis Proyectos
+## 📂 My Projects  
 
-Aquí encontrarás una recopilación de mis trabajos y códigos relacionados con mis investigaciones y publicaciones. Siéntete libre de explorar y contribuir.
+Here you will find a collection of my works and code related to my research and publications. Feel free to explore and contribute.  
 
-1. [Nombre del Proyecto 1](link_al_proyecto_1): Breve descripción o contexto.
-2. [Nombre del Proyecto 2](link_al_proyecto_2): Breve descripción o contexto.
+1. [**Project Name 1**](link_to_project_1) - Brief description or context.  
+2. [**Project Name 2**](link_to_project_2) - Brief description or context.  
 
-#### Contacto
+## 📫 Contact  
 
-¡Me encantaría conectarme contigo! No dudes en contactarme a través de:
+I’d love to connect with you! Feel free to reach out through:  
 
-- Correo Electrónico: [tu@email.com](mailto:tu@email.com)
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu_perfil/)
-- Twitter: [@tu_usuario_de_twitter](https://twitter.com/tu_usuario_de_twitter)
+- 📧 Email: [your@email.com](mailto:your@email.com)  
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile/)  
+- 🐦 Twitter: [@your_twitter_username](https://twitter.com/your_twitter_username)  
 
-¡Gracias por visitar mi perfil!
+Thanks for visiting my profile! 🚀
