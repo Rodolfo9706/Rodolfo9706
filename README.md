@@ -11,7 +11,7 @@ Hello! I'm **Rodolfo Isaac Verdín Monzón**, a robotics enthusiast and a **Ph.D
 - 🤖 **Robotics enthusiast**.  
 - 📚 Always open to learning something new and willing to be taught.
 
-<img src="https://github.com/user-attachments/assets/4d3ba552-cfa3-4665-9352-b791d3fe3647" width="300">
+<img src="https://github.com/user-attachments/assets/4d3ba552-cfa3-4665-9352-b791d3fe3647" width="600">
 
 ## 🚀 Areas of Interest  
 
