@@ -1,38 +1,80 @@
-### Hi there 👋  
+# Hi there, I'm Rodolfo Isaac Verdín Monzón 👋
 
-### Welcome to my GitHub space  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Ph.D.+Student+in+Mechatronics+%40+CIO;Robotics+%26+Nonlinear+Control+Researcher;Bringing+machines+to+life+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
-Hello! I'm **Rodolfo Isaac Verdín Monzón**, a robotics enthusiast and a **Ph.D. student in Mechatronics** at the **Center for Research in Optics (CIO)**. My passion lies in bringing machines to "life" and exploring the vast world of **robotics, control, and nonlinear systems**.  
+---
 
-## 🧑‍💻 About Me  
+### 👨‍💻 About Me
 
-- 🎓 **Ph.D. student** in Mechatronics and mechanics design at CIO.  
-- 🔩 **Mechatronics Engineer**.  
-- 🤖 **Robotics enthusiast**.  
-- 📚 Always open to learning something new and willing to be taught.
+Hello! I'm a **Mechatronics Engineer** and **Ph.D. student in Mechatronics** at the **Center for Research in Optics (CIO)** in León, Guanajuato. My passion lies in bringing machines to "life" and exploring the intersection of visual control, advanced mechanics, and nonlinear systems.
 
-<img src="https://github.com/user-attachments/assets/4d3ba552-cfa3-4665-9352-b791d3fe3647" width="600">
+- 🎓 **Ph.D. Candidate** focusing on Mechatronics & Mechanical Design at **CIO**.
+- 🛠️ Specializing in **Robotics, Visual Control, and Control Theory**.
+- 📚 Continuous learner, always eager to collaborate and explore innovative technologies.
+- ⚡ **Goal:** Bridging the gap between theoretical control systems and practical robotic solutions.
 
-## 🚀 Areas of Interest  
+---
 
-- 🤖 **Robotics**  
-- 👁️ **Visual control**  
-- 📡 **Power electronics**  
-- 🎛️ **Control and Nonlinear Systems**  
+### 🔬 Core Technologies & Tools
 
-## 📂 My Projects  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Here you will find a collection of my works and code related to my research and publications. Feel free to explore and contribute.  
+---
 
-1. [**Project Name 1**](link_to_project_1) - Brief description or context.  
-2. [**Project Name 2**](link_to_project_2) - Brief description or context.  
+### 🚀 Areas of Interest
 
-## 📫 Contact  
+| Domain | Focus Areas |
+| :--- | :--- |
+| **🤖 Robotics & Automation** | Kinematics, dynamics, and autonomous robotic systems |
+| **👁️ Visual Servoing / Control** | Computer vision integration for closed-loop dynamic control |
+| **🎛️ Control & Nonlinear Systems** | Robust control strategies, Lyapunov stability, adaptive systems |
+| **📡 Power & Electronics** | Embedded systems, driver design, hardware-in-the-loop |
 
-I’d love to connect with you! Feel free to reach out through:  
+---
 
-- 📧 Email: [your@email.com](mailto:your@email.com)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile/)  
-- 🐦 Twitter: [@your_twitter_username](https://twitter.com/your_twitter_username)  
+### 📸 Featured Media / Demonstration
 
-Thanks for visiting my profile! 🚀
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d3ba552-cfa3-4665-9352-b791d3fe3647" width="800" alt="Robotics System Demo">
+</p>
+
+---
+
+### 📂 Featured Publications & Projects
+
+1. 🔬 **[Research Project / Paper Title](https://github.com/tu-usuario/repo-1)** — *Brief description of the research paper, algorithm, or experimental setup.*
+2. 🤖 **[Robotics Simulation / Implementation](https://github.com/tu-usuario/repo-2)** — *Short description of ROS packages, control algorithms, or hardware interfaces.*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:tu-correo@cio.mx">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rodolfoverdin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</p>
+
+*Thanks for visiting! Feel free to star ⭐ repos that you find useful or reach out for research collaborations.*
