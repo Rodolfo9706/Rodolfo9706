@@ -8,12 +8,12 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Rodolfo Isaac Verdín Monzón**, a **Mechatronics Engineer** and **Ph.D. student in Mechatronics** at the **Center for Research in Optics (CIO)** in León, Guanajuato. My passion lies in bringing machines to "life" and exploring the vast world of **robotics, control, and nonlinear systems**.
+Hello! I'm a **Mechatronics Engineer** and **Ph.D. student in Mechatronics** at the **Center for Research in Optics (CIO)** in León, Guanajuato. My passion lies in bringing machines to "life" and exploring the intersection of visual control, advanced mechanics, and nonlinear systems.
 
-- 🎓 **Ph.D. Student** in Mechatronics and Mechanical Design at **CIO**.
-- 🔩 **Mechatronics Engineer**.
-- 🤖 **Robotics Enthusiast**.
-- 📚 Always open to learning something new and willing to be taught.
+- 🎓 **Ph.D. Candidate** focusing on Mechatronics & Mechanical Design at **CIO**.
+- 🛠️ Specializing in **Robotics, Visual Control, and Control Theory**.
+- 📚 Continuous learner, always eager to collaborate and explore innovative technologies.
+- ⚡ **Goal:** Bridging the gap between theoretical control systems and practical robotic solutions.
 
 ---
 
@@ -32,27 +32,25 @@ Hello! I'm **Rodolfo Isaac Verdín Monzón**, a **Mechatronics Engineer** and **
 
 | Domain | Focus Areas |
 | :--- | :--- |
-| **🤖 Robotics** | Kinematics, dynamics, and autonomous systems |
-| **👁️ Visual Control** | Computer vision integration for dynamic closed-loop control |
-| **📡 Power Electronics** | Driver design, power conversion, and embedded hardware |
-| **🎛️ Control & Nonlinear Systems** | Robust control strategies and nonlinear dynamic systems |
+| **🤖 Robotics & Automation** | Kinematics, dynamics, and autonomous robotic systems |
+| **👁️ Visual Servoing / Control** | Computer vision integration for closed-loop dynamic control |
+| **🎛️ Control & Nonlinear Systems** | Robust control strategies, Lyapunov stability, adaptive systems |
+| **📡 Power & Electronics** | Embedded systems, driver design, hardware-in-the-loop |
 
 ---
 
 ### 📸 Featured Media / Demonstration
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4d3ba552-cfa3-4665-9352-b791d3fe3647" width="600" alt="Robotics System Demo">
+  <img src="https://github.com/user-attachments/assets/4d3ba552-cfa3-4665-9352-b791d3fe3647" width="800" alt="Robotics System Demo">
 </p>
 
 ---
 
-### 📂 My Projects
+### 📂 Featured Publications & Projects
 
-Here you will find a collection of my works and code related to my research and publications. Feel free to explore and contribute.
-
-1. [**Project Name 1**](https://github.com/Rodolfo9706) - Brief description or context.  
-2. [**Project Name 2**](https://github.com/Rodolfo9706) - Brief description or context.  
+1. 🔬 **[Research Project / Paper Title](https://github.com/Rodolfo9706)** — *Brief description of the research paper, algorithm, or experimental setup.*
+2. 🤖 **[Robotics Simulation / Implementation](https://github.com/Rodolfo9706)** — *Short description of ROS packages, control algorithms, or hardware interfaces.*
 
 ---
 
@@ -65,12 +63,18 @@ Here you will find a collection of my works and code related to my research and 
 
 ---
 
-### 📫 Contact
+### 📫 Connect With Me
 
-I'd love to connect with you! Feel free to reach out through:
+<p align="left">
+  <a href="mailto:tu-correo@cio.mx">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rodolfo9706">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rodolfoverdin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 📧 Email: [tu_correo@ejemplo.com](mailto:tu_correo@ejemplo.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile/)
-- 🐙 GitHub: [Rodolfo9706](https://github.com/Rodolfo9706)
-
-Thanks for visiting my profile! 🚀
+*Thanks for visiting! Feel free to star ⭐ repos that you find useful or reach out for research collaborations.*
