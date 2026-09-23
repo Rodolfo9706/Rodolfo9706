@@ -78,10 +78,10 @@ Hello! I'm **Rodolfo Isaac Verdín Monzón**, a Mechatronics Engineer and **Ph.D
   <a href="https://scholar.google.com/citations?user=fx3pI9AAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="https://orcid.org/0000-0003-1119-5395">
+  <a href="https://scholar.google.com/citations?user=fx3pI9AAAAAJ&hl=es">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rodolfoverdin/">
+  <a href="https://www.linkedin.com/in/rodolfo-isaac-verd%C3%ADn-monz%C3%B3n-119188227/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rodolfo9706">
