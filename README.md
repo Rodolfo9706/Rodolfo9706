@@ -53,11 +53,10 @@ Hello! I'm a **Mechatronics Engineer** and **Ph.D. student in Mechatronics** at 
 2. 🤖 **[Robotics Simulation / Implementation](https://github.com/Rodolfo9706)** — *Short description of ROS packages, control algorithms, or hardware interfaces.*
 
 ---
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Rodolfo9706?label=Followers&style=for-the-badge&color=2E86AB" />
-  <img src="https://img.shields.io/github/stars/Rodolfo9706?label=Stars&style=for-the-badge&color=2E86AB" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolfo9706&theme=tokyonight" />
 </p>
 ---
 
