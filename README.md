@@ -57,10 +57,9 @@ Hello! I'm a **Mechatronics Engineer** and **Ph.D. student in Mechatronics** at 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rodolfo9706&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo9706&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rodolfo9706&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rodolfo9706&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ### 📫 Connect With Me
