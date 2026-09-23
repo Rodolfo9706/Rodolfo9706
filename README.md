@@ -12,7 +12,7 @@ Hello! I'm **Rodolfo Isaac Verdín Monzón**, a Mechatronics Engineer and **Ph.D
 
 - 🎓 **Ph.D. Candidate** focusing on Mechatronics and Mechanical Design at **CIO**.
 - 🚁 Specializing in **Soft Aerial Robotics (QuadSoft, Soft-PVTOL)**, **Unmanned Aerial Systems (UAVs)**, and **Visual Servoing**.
-- ⚡ Expert in **Nonlinear Control for Power Converters** (Bilinear Buck-Boost, AC/DC Rectifiers) using Lyapunov stability and adaptive control.
+- ⚡ **Nonlinear Control for Power Converters** (Bilinear Buck-Boost, AC/DC Rectifiers) using Lyapunov stability and adaptive control.
 - 🛠️ Hands-on hardware builder: From mechanical CAD/FEA design to real-world experimental validation (HIL/SIL).
 
 ---
